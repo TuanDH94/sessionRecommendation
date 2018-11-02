@@ -18,7 +18,7 @@ vocab = {}
 
 def load_data(data_path):
     f = open(data_path, mode='r', encoding='utf-8')
-    wv_model = KeyedVectors.load_word2vec_format('wv.model', binary=False)
+    wv_model = KeyedVectors.load_word2vec_format('../wv.model', binary=False)
     product_id.extend(wv_model.index2word)
     dict_size = len(product_id)
     X_sequence_product = []
@@ -57,11 +57,11 @@ def train_model(data_path):
     board = keras.callbacks.TensorBoard(log_dir='E:\Logs', histogram_freq=0, batch_size=32, write_graph=True, write_grads=False,
                                 write_images=False, embeddings_freq=0, embeddings_layer_names=None,
                                 embeddings_metadata=None, embeddings_data=None)
-    model_name = 'rs.h5'
+    model_name = '../rs.h5'
     checkpointer = ModelCheckpoint(filepath=model_name, monitor='val_acc', verbose=1, save_best_only=True)
     model.compile(loss='categorical_crossentropy', optimizer='rmsprop', metrics=['accuracy', top_k_accuracy])
-    model.evaluate()
-    history = model.fit(X_train, Y_train, validation_data=[X_valid, Y_valid], batch_size=1024, epochs=30, callbacks=[checkpointer, board])
+    #model.evaluate()
+    history = model.fit(X_train, Y_train, validation_data=[X_valid, Y_valid], batch_size=512, epochs=30, callbacks=[checkpointer, board])
     # Plot training & validation accuracy values
     plt.plot(history.history['acc'])
     plt.plot(history.history['val_acc'])
@@ -81,5 +81,5 @@ def train_model(data_path):
     plt.show()
 
 if __name__ == '__main__':
-    train_model(data_path='data_sample/new_train_sequence_3.dvg')
+    train_model(data_path='../data_sample/new_train_sequence.dvg')
     #load_data()
