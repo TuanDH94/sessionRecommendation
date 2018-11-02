@@ -1,0 +1,454 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-117-982
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-117-982
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-117-982
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:test
+INFO:werkzeug:127.0.0.1 - - [18/Oct/2018 15:13:14] "[37mGET /recommend/?inputs=test HTTP/1.1[0m" 200 -
+WARNING:root:test
+INFO:werkzeug:127.0.0.1 - - [18/Oct/2018 15:13:37] "[37mGET /recommend/?inputs=test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:["test1","test2"]
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:24:54] "[37mGET /recommend/?inputs=[%22test1%22,%22test2%22] HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:24:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:test1
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:28:45] "[37mGET /recommend/?inputs=test1&inputs=test2 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:test1
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:29:51] "[37mGET /recommend/?inputs=test1&inputs=test2 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['test1', 'test2']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:49] "[37mGET /recommend/?inputs=test1&inputs=test2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:49] "[37mGET /flask-api/static/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:50] "[37mGET /flask-api/static/css/bootstrap-tweaks.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:50] "[37mGET /flask-api/static/css/prettify.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:50] "[37mGET /flask-api/static/css/default.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:50] "[37mGET /flask-api/static/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:50] "[37mGET /flask-api/static/js/jquery-1.8.1-min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:50] "[37mGET /flask-api/static/js/prettify-min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:50] "[37mGET /flask-api/static/js/default.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:32:50] "[37mGET /flask-api/static/img/grid.png HTTP/1.1[0m" 200 -
+WARNING:root:['test1', 'test2']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 11:33:05] "[37mGET /recommend/?inputs=test1&inputs=test2 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\PythonSource\\flask_recommend_api\\api_handler.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\PythonSource\\flask_recommend_api\\api_handler.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\PythonSource\\flask_recommend_api\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:40:51] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:42] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:42] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:42] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:42] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:42] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:42] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:43] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+WARNING:root:['d_68']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:52] "[1m[35mGET /recommend/?inputs=d_68 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:52] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:52] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:52] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:52] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:41:52] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:43:07] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:43:50] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:43:50] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:43:50] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:43:50] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:43:50] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:43:50] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:46:05] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\PythonSource\\flask_recommend_api\\lstm_model\\predictor.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2018 15:55:37] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'mode': 'rb', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 10:35:41] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+WARNING:tensorflow:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 10:53:03] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 11:01:19] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'mode': 'rb', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 13:52:43] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 13:52:51] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 13:57:19] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 13:57:20] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 13:57:22] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'E:\\PythonSource\\flask_recommend_api\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 14:24:01] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 14:24:59] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 14:25:15] "[1m[35mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'E:\\PythonSource\\flask_recommend_api\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\PythonSource\\flask_recommend_api\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['d_68', 'd_13', 's_334']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 15:23:55] "[37mGET /recommend/?inputs=d_68&inputs=d_13&inputs=s_334 HTTP/1.1[0m" 200 -
+WARNING:root:['w_270', 'p_859', 'p_1791']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 15:24:41] "[37mGET /recommend/?inputs=w_270&inputs=p_859&inputs=p_1791 HTTP/1.1[0m" 200 -
+WARNING:root:['w_11872', 's_14243', 'd_102']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 15:26:31] "[37mGET /recommend/?inputs=w_11872&inputs=s_14243&inputs=d_102 HTTP/1.1[0m" 200 -
+WARNING:root:['s_907', 's_14243', 'd_102']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 15:27:37] "[37mGET /recommend/?inputs=s_907&inputs=s_14243&inputs=d_102 HTTP/1.1[0m" 200 -
+WARNING:root:['s_12959', 's_3835', 's_7772']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 15:28:09] "[37mGET /recommend/?inputs=s_12959&inputs=s_3835&inputs=s_7772 HTTP/1.1[0m" 200 -
+WARNING:root:['w_178', 's_13141', 's_11166']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 15:29:40] "[37mGET /recommend/?inputs=w_178&inputs=s_13141&inputs=s_11166 HTTP/1.1[0m" 200 -
+WARNING:root:['s_7696', 's_479', 's_458']
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2018 15:30:43] "[37mGET /recommend/?inputs=s_7696&inputs=s_479&inputs=s_458 HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2018 11:34:27] "[1m[35mGET /recommend/?inputs=%7B%22si%22:%22361%22%7D&inputs=%7B%22wi%22:%22961%22%7D&inputs=%7B%22wi%22:%22962%22%7D HTTP/1.1[0m" 500 -
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2018 11:35:03] "[1m[35mGET /recommend/?inputs=%7B%22si%22:%22361%22%7D&inputs=%7B%22wi%22:%22961%22%7D&inputs=%7B%22wi%22:%22962%22%7D HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2018 13:57:56] "[1m[35mGET /recommend/?inputs=%7B%22si%22:%22361%22%7D&inputs=%7B%22wi%22:%22961%22%7D&inputs=%7B%22wi%22:%22962%22%7D HTTP/1.1[0m" 500 -
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2018 13:58:04] "[1m[35mGET /recommend/?inputs=%7B%22si%22:%22361%22%7D&inputs=%7B%22wi%22:%22961%22%7D&inputs=%7B%22wi%22:%22962%22%7D HTTP/1.1[0m" 500 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2018 14:03:01] "[37mGET /recommend/?inputs=%7B%22si%22:%22361%22%7D&inputs=%7B%22wi%22:%22961%22%7D&inputs=%7B%22wi%22:%22962%22%7D HTTP/1.1[0m" 200 -
+WARNING:root:['{"si":"361"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2018 14:03:10] "[37mGET /recommend/?inputs=%7B%22si%22:%22361%22%7D&inputs=%7B%22wi%22:%22961%22%7D&inputs=%7B%22wi%22:%22962%22%7D HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['{"si":"361", "di":"231"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:werkzeug:127.0.0.1 - - [25/Oct/2018 14:06:13] "[37mGET /recommend/?inputs=%7B%22si%22:%22361%22,%20%22di%22:%22231%22%7D&inputs=%7B%22wi%22:%22961%22%7D&inputs=%7B%22wi%22:%22962%22%7D HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'mode': 'rb', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
