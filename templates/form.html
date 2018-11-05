@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form method="post">
+<table>
+  <tr>
+    <td>Item 1</td>
+    <td>{{form.input_field1}}</td>
+    <td>{{form.input_item1}}</td>
+  </tr>
+  <tr>
+    <td>Item 2</td>
+    <td>{{form.input_field2}}</td>
+    <td>{{form.input_item2}}</td>
+  </tr>
+  <tr>
+    <td>Item 3</td>
+    <td>{{form.input_field3}}</td>
+    <td>{{form.input_item3}}</td>
+  </tr>
+  <tr>
+    <td>Item 4</td>
+    <td>{{form.input_field4}}</td>
+    <td>{{form.input_item4}}</td>
+  </tr>
+  <tr>
+    <td>Item 5</td>
+    <td>{{form.input_field5}}</td>
+    <td>{{form.input_item5}}</td>
+  </tr>
+</table>
+<hr>
+<div>
+  {{form.submit()}}
+</div>
+</form>
+{% endblock %}

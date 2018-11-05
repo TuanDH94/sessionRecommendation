@@ -18,7 +18,7 @@ vocab = {}
 
 def load_data(data_path):
     f = open(data_path, mode='r', encoding='utf-8')
-    wv_model = KeyedVectors.load_word2vec_format('../wv.model', binary=False)
+    wv_model = KeyedVectors.load_word2vec_format('wv.model', binary=False)
     product_id.extend(wv_model.index2word)
     dict_size = len(product_id)
     X_sequence_product = []

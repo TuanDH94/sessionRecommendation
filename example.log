@@ -452,3 +452,210 @@ INFO:gensim.models.utils_any2vec:loaded (12654, 100) matrix from wv.model
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 844-408-515
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['{"si":"361", "di":"231"}', '{"wi":"961"}', '{"wi":"962"}']
+INFO:werkzeug:127.0.0.1 - - [02/Nov/2018 15:48:38] "[37mGET /recommend/?inputs=%7B%22si%22:%22361%22,%20%22di%22:%22231%22%7D&inputs=%7B%22wi%22:%22961%22%7D&inputs=%7B%22wi%22:%22962%22%7D HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:root:['test']
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:08] "[1m[35mGET /recommend/?inputs=test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:08] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:08] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:08] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:08] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:08] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:08] "[37mGET /recommend/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:30] "[33mGET /index/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:48:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\DVGProjects\\trunk\\WIP\\Source\\API\\BSDSessionRecommendSystem\\rnn_recommend_api\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:23] "[33mGET /index/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:29] "[33mGET /index/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:30] "[33mGET /index/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:30] "[33mGET /index/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:31] "[33mGET /index/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'E:\\DVGProjects\\trunk\\WIP\\Source\\API\\BSDSessionRecommendSystem\\rnn_recommend_api\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'mode': 'rb', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:59] "[32mGET /index HTTP/1.1[0m" 301 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:59] "[1m[35mGET /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:59] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:59] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:59] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:59] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:59] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:49:59] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:37] "[1m[35mGET /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:37] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:37] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:37] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:37] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:37] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:37] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:39] "[1m[35mGET /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:39] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:39] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:39] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:39] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:39] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:51:39] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:43] "[1m[35mGET /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:43] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:43] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:43] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:43] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:43] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:43] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:44] "[1m[35mGET /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:45] "[1m[35mGET /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:45] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:45] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:45] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:45] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:46] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 14:55:46] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\DVGProjects\\trunk\\WIP\\Source\\API\\BSDSessionRecommendSystem\\rnn_recommend_api\\form\\form.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'kw': {}, 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 15:33:12] "[37mGET /index/ HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'mode': 'rb', 'uri': 'wv.model', 'kw': {}}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 15:47:57] "[37mGET /index/ HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 15:50:18] "[37mGET /index/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 15:50:44] "[37mGET /index/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 15:50:46] "[37mGET /index/ HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'uri': 'wv.model', 'kw': {}, 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:14] "[37mGET /index/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:15] "[37mGET /index/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:18] "[1m[35mPOST /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:18] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:18] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:18] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:19] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:19] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:52:19] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'mode': 'rb', 'uri': 'wv.model'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+INFO:werkzeug: * Restarting with stat
+INFO:gensim.models.utils_any2vec:loading projection weights from wv.model
+DEBUG:smart_open.smart_open_lib:{'kw': {}, 'uri': 'wv.model', 'mode': 'rb'}
+INFO:gensim.models.utils_any2vec:loaded (13701, 100) matrix from wv.model
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 844-408-515
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:44] "[1m[35mPOST /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:44] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:45] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:45] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:45] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:49] "[37mGET /index/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:53] "[1m[35mPOST /index/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:53] "[37mGET /index/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:53] "[37mGET /index/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:53] "[37mGET /index/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:53] "[37mGET /index/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:53] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2018 16:55:53] "[37mGET /index/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
